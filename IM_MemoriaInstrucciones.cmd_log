@@ -1,0 +1,4 @@
+vhdtdtfi -prj ProcesadorMonociclo -o C:/Users/dmartinez/Desktop/procesadormonociclo/ProcesadorMonociclo/IM_MemoriaInstrucciones.vhi -module IM_MemoriaInstrucciones -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work IM_MemoriaInstrucciones.vhd 
+vhdtdtfi -prj ProcesadorMonociclo -o C:/Users/dmartinez/Desktop/ProcesadorMonociclo/IM_MemoriaInstrucciones.vhi -module IM_MemoriaInstrucciones -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work IM_MemoriaInstrucciones.vhd 
+vhdtdtfi -lib work IM_MemoriaInstrucciones.vhd -prj ProcesadorMonociclo -o IM_MemoriaInstrucciones.spl -module IM_MemoriaInstrucciones -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e IM_MemoriaInstrucciones.spl C:/Users/dmartinez/Desktop/ProcesadorMonociclo/IM_MemoriaInstrucciones.sym 

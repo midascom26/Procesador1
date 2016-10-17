@@ -1,0 +1,6 @@
+[Inputs]
+reset
+=Entrada[31:0]=
+[Outputs]
+=salida[31:0]=
+[BiDir]

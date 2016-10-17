@@ -1,0 +1,4 @@
+vhdtdtfi -lib work UC_UnidadControl.vhd -lib work RF_RegisterFile.vhd -lib work nPC.vhd -lib work IM_MemoriaInstrucciones.vhd -lib work ALU.vhd -lib work Adder.vhd -lib work Procesador1.vhd -prj ProcesadorMonociclo -o Procesador1.spl -module Procesador1 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Procesador1.spl C:/Users/dmartinez/Desktop/procesadormonociclo/ProcesadorMonociclo/Procesador1.sym 
+xst -intstyle ise -ifn "C:/Users/dmartinez/Desktop/procesadormonociclo/ProcesadorMonociclo/Procesador1.xst" -ofn "C:/Users/dmartinez/Desktop/procesadormonociclo/ProcesadorMonociclo/Procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/dmartinez/Desktop/procesadormonociclo/ProcesadorMonociclo/Procesador1.xst" -ofn "C:/Users/dmartinez/Desktop/procesadormonociclo/ProcesadorMonociclo/Procesador1.syr" 

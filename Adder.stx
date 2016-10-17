@@ -1,0 +1,36 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/dmartinez/Desktop/ProcesadorMonociclo/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.48 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/dmartinez/Desktop/ProcesadorMonociclo/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.48 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3607 - Unit work/Adder is now defined in a different file.  It was defined in "C:/Users/dmartinez/Desktop/procesadormonociclo/ProcesadorMonociclo/Adder.vhd", and is now defined in "C:/Users/dmartinez/Desktop/ProcesadorMonociclo/Adder.vhd".
+WARNING:HDLParsers:3607 - Unit work/Adder/Proces_Monociclo is now defined in a different file.  It was defined in "C:/Users/dmartinez/Desktop/procesadormonociclo/ProcesadorMonociclo/Adder.vhd", and is now defined in "C:/Users/dmartinez/Desktop/ProcesadorMonociclo/Adder.vhd".
+Compiling vhdl file "C:/Users/dmartinez/Desktop/ProcesadorMonociclo/Adder.vhd" in Library work.
+Architecture proces_monociclo of Entity adder is up to date.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.94 secs
+ 
+--> 
+
+Total memory usage is 212664 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    3 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

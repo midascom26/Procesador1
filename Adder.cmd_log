@@ -1,0 +1,1 @@
+vhdtdtfi -prj ProcesadorMonociclo -o C:/Users/dmartinez/Desktop/procesadormonociclo/ProcesadorMonociclo/Adder.vhi -module Adder -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Adder.vhd 

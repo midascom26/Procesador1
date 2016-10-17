@@ -1,0 +1,32 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/dmartinez/Desktop/ProcesadorMonociclo/Procesador1_isim_beh.exe -prj C:/Users/dmartinez/Desktop/ProcesadorMonociclo/Procesador1_beh.prj work.Procesador1 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/dmartinez/Desktop/ProcesadorMonociclo/UC_UnidadControl.vhd" into library work
+Parsing VHDL file "C:/Users/dmartinez/Desktop/ProcesadorMonociclo/RF_RegisterFile.vhd" into library work
+Parsing VHDL file "C:/Users/dmartinez/Desktop/ProcesadorMonociclo/nPC.vhd" into library work
+Parsing VHDL file "C:/Users/dmartinez/Desktop/ProcesadorMonociclo/IM_MemoriaInstrucciones.vhd" into library work
+Parsing VHDL file "C:/Users/dmartinez/Desktop/ProcesadorMonociclo/ALU.vhd" into library work
+Parsing VHDL file "C:/Users/dmartinez/Desktop/ProcesadorMonociclo/Adder.vhd" into library work
+Parsing VHDL file "C:/Users/dmartinez/Desktop/ProcesadorMonociclo/Procesador1.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package textio
+Compiling architecture proces_monociclo of entity Adder [adder_default]
+Compiling architecture proces_monociclo of entity nPC [npc_default]
+Compiling architecture proces_monociclo of entity IM_MemoriaInstrucciones [im_memoriainstrucciones_default]
+Compiling architecture proces_monociclo of entity UC_UnidadControl [uc_unidadcontrol_default]
+Compiling architecture proces_monociclo of entity RF_RegisterFile [rf_registerfile_default]
+Compiling architecture proces_monociclo of entity ALU [alu_default]
+Compiling architecture proces_monociclo of entity procesador1
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 18 VHDL Units
+Built simulation executable C:/Users/dmartinez/Desktop/ProcesadorMonociclo/Procesador1_isim_beh.exe
+Fuse Memory Usage: 33668 KB
+Fuse CPU Usage: 514 ms

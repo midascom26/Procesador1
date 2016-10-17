@@ -1,0 +1,7 @@
+vhdl work "UC_UnidadControl.vhd"
+vhdl work "RF_RegisterFile.vhd"
+vhdl work "nPC.vhd"
+vhdl work "IM_MemoriaInstrucciones.vhd"
+vhdl work "ALU.vhd"
+vhdl work "Adder.vhd"
+vhdl work "Procesador1.vhd"

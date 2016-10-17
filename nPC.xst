@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/dmartinez/Desktop/procesadormonociclo/ProcesadorMonociclo/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/dmartinez/Desktop/procesadormonociclo/ProcesadorMonociclo/xst"
+elaborate
+-ifn nPC.prj
+-ifmt mixed

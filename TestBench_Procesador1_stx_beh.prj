@@ -1,0 +1,8 @@
+vhdl isim_temp "UC_UnidadControl.vhd"
+vhdl isim_temp "RF_RegisterFile.vhd"
+vhdl isim_temp "nPC.vhd"
+vhdl isim_temp "IM_MemoriaInstrucciones.vhd"
+vhdl isim_temp "ALU.vhd"
+vhdl isim_temp "Adder.vhd"
+vhdl isim_temp "Procesador1.vhd"
+vhdl isim_temp "TestBench_Procesador1.vhd"

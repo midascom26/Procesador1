@@ -1,0 +1,7 @@
+vhdl work "C:\Users\dmartinez\Desktop\procesadormonociclo\ProcesadorMonociclo\UC_UnidadControl.vhd"
+vhdl work "C:\Users\dmartinez\Desktop\procesadormonociclo\ProcesadorMonociclo\RF_RegisterFile.vhd"
+vhdl work "C:\Users\dmartinez\Desktop\procesadormonociclo\ProcesadorMonociclo\nPC.vhd"
+vhdl work "C:\Users\dmartinez\Desktop\procesadormonociclo\ProcesadorMonociclo\IM_MemoriaInstrucciones.vhd"
+vhdl work "C:\Users\dmartinez\Desktop\procesadormonociclo\ProcesadorMonociclo\ALU.vhd"
+vhdl work "C:\Users\dmartinez\Desktop\procesadormonociclo\ProcesadorMonociclo\Adder.vhd"
+vhdl work "C:\Users\dmartinez\Desktop\procesadormonociclo\ProcesadorMonociclo\Procesador1.vhd"
